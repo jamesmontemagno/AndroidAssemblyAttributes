@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AssemblySettings/MyApplication.cs">
+    <Files>
+      <File FileName="AssemblySettings/MyApplication.cs" Line="7" Column="2" />
+      <File FileName="AssemblySettings/Properties/AssemblyInfo.cs" Line="22" Column="34" />
+      <File FileName="AssemblySettings/Resources/values/Strings.xml" Line="4" Column="38" />
+      <File FileName="AssemblySettings/Properties/AndroidManifest.xml" Line="4" Column="12" />
+      <File FileName="AssemblySettings/MainActivity.cs" Line="11" Column="70" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AssemblySettings AndroidDeviceId-Debug="192.168.56.101:5555" />
+</Properties>
